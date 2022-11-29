@@ -5,6 +5,7 @@ Scripts developed in the course of Introduction to Scientific Computing and Prog
 Python script to convert xyz cartesian coordinates in z-matrix coordinates
 
 How to use in unix systems:
+
 ./z_matrix.py xyz_file.xyz
 
 This script will read the xyz coordinates from the xyz_file and write a new file with the same name but with .zmat extension and z-matrix coordinates.
