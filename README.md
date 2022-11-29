@@ -1,2 +1,4 @@
-# Introduction_to_scientific_computing_and_programming_in_chemistry
-Scripts developed in the discipline of introduction to scientific computing and programming in chemistry
+# Introduction to Scientific Computing and Programming in Chemistry
+Scripts developed in the course of Introduction to Scientific Computing and Programming in Chemistry at the Institute of Chemistry at the University of São Paulo (IQ-USP)
+
+
