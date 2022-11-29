@@ -55,6 +55,8 @@ DO I=1,NUM_ATOMOS
         READ(1,*) SIMBOLOS(I), X(I), Y(I), Z(I)
 END DO
 
+CLOSE(1)
+
 ! Laços for aninhados para calcular todas distâncias possíveis
 DO I=1,NUM_ATOMOS
         DO J=1,NUM_ATOMOS
