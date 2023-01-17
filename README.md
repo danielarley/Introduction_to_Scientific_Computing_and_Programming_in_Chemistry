@@ -1,6 +1,18 @@
 # Introduction to Scientific Computing and Programming in Chemistry
 Scripts developed in the course of Introduction to Scientific Computing and Programming in Chemistry at the Institute of Chemistry at the University of São Paulo (IQ-USP)
 
+## dynamics_analysis.py
+Python script that reads and performs different analyzes on an xyz file containing the cartesian coordinates of a solute molecule and several solvent molecules obtained through molecular dynamics. 
+
+How to use:
+
+./dynamics_analysis.py xyz_file.xyz num_solvent_molecules
+ 
+Parameters:
+
+xyz_file.xyz - file containing solute and solvent coordinates;
+num_solvent_molecules - number of solvent molecules to write in trajectory file
+
 ## z_matrix.py
 Python script to convert xyz cartesian coordinates in z-matrix coordinates
 
